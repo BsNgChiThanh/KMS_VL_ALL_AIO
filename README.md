@@ -2,6 +2,7 @@
 
 - **Download KMS ALL AIO [tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/ErBkofQz8FZLkC0q8Ywiaz4BmCYcC1Y2-1SbqNVshjfmyA?e=KYT3H8) hoặc [tại đây](https://terabox.com/s/1ljCcylft3bzSG_QVERZF2A)**
 - [Link dự phòng](https://1drv.ms/f/s!AmvuvqBBIcK6gjLPlpmfuonfvK2p?e=AecrZd)
+- ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
 
 ## HƯỚNG DẪN SỬ DỤNG ##
 ### Kích hoạt Office: ###
