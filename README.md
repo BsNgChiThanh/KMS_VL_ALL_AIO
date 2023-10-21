@@ -7,6 +7,7 @@
 
 ## HƯỚNG DẪN SỬ DỤNG ##
 ### Kích hoạt Office: ###
+- **Không kích hoạt được office 2010.**
 - Download về giải nén rồi chay nó dưới quyền **Run As Administrator**
 - ![image](https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/assets/82578024/2a5b7bc8-0205-4f47-8031-cb73bcf7388e)
 - ![image](https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/assets/82578024/9be5f4f5-a568-4516-8d0c-9015c9e982d7)
